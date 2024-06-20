@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1be03745-31e0-48d0-ab95-822b7c5def33",
+    "Name": "UsrUser_FormPage",
+    "ModifiedOnUtc": "\/Date(1718897314000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "User form page",
+    "DependsOn": []
+  }
+}

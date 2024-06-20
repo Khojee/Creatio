@@ -1,0 +1,70 @@
+﻿{
+  "Descriptor": {
+    "UId": "8bcfb468-7bf5-331b-9280-8937d4b746e8",
+    "Name": "UsrBooks",
+    "ModifiedOnUtc": "\/Date(1718861947000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "71550007-570d-4f3b-9eb4-d29f86daeef2",
+      "Name": "UsrBooks"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrIsbn",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrCreatedAt",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrGenre",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrTotalCopies",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrAvailableCopies",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrAuthor",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrBookTitle",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      }
+    ]
+  }
+}

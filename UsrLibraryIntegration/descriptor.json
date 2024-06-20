@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "d66aac84-bacd-e448-92d3-e7534e66ed85",
+    "Name": "UsrLibraryIntegration",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1718807278000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrLibraryIntegration.csproj",
+    "DependsOn": [
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      }
+    ]
+  }
+}

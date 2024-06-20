@@ -1,0 +1,9 @@
+C:\Creatio.abc\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_gbd73a5\Files\Bin\UsrApp_gbd73a5.dll
+C:\Creatio.abc\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_gbd73a5\Files\Bin\UsrApp_gbd73a5.pdb
+C:\Creatio.abc\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_gbd73a5\Files\obj\Release\UsrApp_gbd73a5.csproj.AssemblyReference.cache
+C:\Creatio.abc\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_gbd73a5\Files\obj\Release\UsrApp_gbd73a5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Creatio.abc\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_gbd73a5\Files\obj\Release\UsrApp_gbd73a5.AssemblyInfoInputs.cache
+C:\Creatio.abc\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_gbd73a5\Files\obj\Release\UsrApp_gbd73a5.AssemblyInfo.cs
+C:\Creatio.abc\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_gbd73a5\Files\obj\Release\UsrApp_gbd73a5.csproj.CoreCompileInputs.cache
+C:\Creatio.abc\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_gbd73a5\Files\obj\Release\UsrApp_gbd73a5.dll
+C:\Creatio.abc\8.1.0.6827_Studio_Softkey_MSSQL_ENU\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrApp_gbd73a5\Files\obj\Release\UsrApp_gbd73a5.pdb

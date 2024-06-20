@@ -1,0 +1,35 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Creatio.abc\\8.1.0.6827_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrLibraryIntegration\\Files\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B417D-FFA6-4B84-A8E0-CAAD5F5D77FE}|UsrLibraryIntegration.csproj|c:\\creatio.abc\\8.1.0.6827_studio_softkey_mssql_enu\\terrasoft.webapp\\terrasoft.configuration\\pkg\\usrlibraryintegration\\schemas\\usrtestcode\\usrtestcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsrTestCode.cs",
+              "DocumentMoniker": "C:\\Creatio.abc\\8.1.0.6827_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrLibraryIntegration\\Schemas\\UsrTestCode\\UsrTestCode.cs",
+              "RelativeDocumentMoniker": "..\\Schemas\\UsrTestCode\\UsrTestCode.cs",
+              "ToolTip": "C:\\Creatio.abc\\8.1.0.6827_Studio_Softkey_MSSQL_ENU\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrLibraryIntegration\\Schemas\\UsrTestCode\\UsrTestCode.cs",
+              "RelativeToolTip": "..\\Schemas\\UsrTestCode\\UsrTestCode.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:20:26.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

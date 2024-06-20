@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="User" />
+			<Item Name="Columns.UsrMembershipType.Caption" Value="Membership Type" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrUserAddress.Caption" Value="Address" />
+			<Item Name="Columns.UsrUserBirthDate.Caption" Value="Birth Date" />
+			<Item Name="Columns.UsrUserCardNumber.Caption" Value="Library Card Number" />
+		</Items>
+	</Group>
+</Resources>

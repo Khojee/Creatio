@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6ab37431-e590-48b6-970c-329027b2e673",
+    "Name": "UsrLibMembershipTypes",
+    "ModifiedOnUtc": "\/Date(1718896576000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "MemberShip Types",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,3496 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "004d6aa0-d51d-4843-9c82-ed035bdb8bf5"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2043633600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "A Portait of the Artist as a Young Man"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 55
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.58"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "James Joyce"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 3
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "84922"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "02044d8b-dbc1-4e2e-a5d3-068112b01556"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2041732800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Scoop"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 23
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.87"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Evelyn Waugh"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 75
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "66600"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "07a26d73-d380-40e9-9008-ba81dfc64e3f"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042424000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "As I Lay Dying"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 4
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.72"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "William Faulkner"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 35
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "56695"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "104ca818-2ec6-4233-a533-6c2c7dc27252"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042510400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "A Farewell to Arms"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 28
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.77"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Ernest Hemingway"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 74
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "82532"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "11536888-9d77-40cc-9619-7316cf487ee5"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2038536000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Ragtime"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 49
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.85"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "E.L. Doctorow"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 86
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "100800"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "11c8f85a-17da-4398-81c4-a66831ad561c"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040264000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Lolita"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 66
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.68"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Vladimir Nabokov"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 4
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "112473"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1428ebd6-92e2-490c-96ea-d4042376e9d8"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2041646400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Finnegans Wake"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 94
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.65"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "James Joyce"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 77
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "188400"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "14cc9eb5-52df-4e39-a0ed-f82d4d5de1d5"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040523200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Invisible Man"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 44
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.81"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Ralph Ellison"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 19
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "177070"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "15d3a9bf-03f5-4bb2-b867-dbe114b6b87e"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040782400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Sheltering Sky"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 37
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.92"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Paul Bowles"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 97
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "102600"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1aa4a326-290c-4a95-92fd-2be784a2c4c4"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2038968000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Deliverance"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 11
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.85"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "James Dickey"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 42
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "83400"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1b1b1f07-2e77-4829-b802-b24b28b3ba83"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2044670400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Golden Bowl"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 75
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.78"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Henry James"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 32
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "177300"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2681f092-02d6-42db-9d38-dd82ecbc80d8"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2043374400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Winesburg, Ohio"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 51
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.83"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Sherwood Anderson"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 24
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "72000"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "28c2a722-e8a4-437a-8800-c541f241d9ca"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042856000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Great Gatsby"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 19
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.85"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "F. Scott Fitzgerald"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 2
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "47094"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2a09e55d-bcb3-4434-82d0-74e14761f596"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042078400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Appointment in Samarra"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 5
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.89"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "John O’Hara"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 22
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "75300"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2b02829a-e56b-4261-a0d0-1cb444edd157"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2043720000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Rainbow"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 78
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.65"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "D.H. Lawrence"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 48
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "163200"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2d33c03c-addd-4bb9-a169-abd016d8df95"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2041041600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "All the King's Men"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 57
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "4.06"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Robert Penn Warren"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 36
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "214872"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2d38194d-289a-4143-a6cd-d6d2e2c37d10"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042251200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Tobacco Road"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 10
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.73"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Erskine Caldwell"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 91
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "57600"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2fddb4b1-3e0b-46d5-8c2b-51347cbd5319"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2044411200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Secret Agent"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 80
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.57"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Joseph Conrad"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 46
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "89230"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "36fb752b-dd7b-4418-909e-be46a8b883c7"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2041732800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Death of the Heart"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 86
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.69"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Elizabeth Bowen"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 84
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "125400"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3b46372b-8874-4f0f-a597-8425000b0885"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042683200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "To the Lighthouse"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 31
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.75"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Virginia Woolf"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 15
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "69327"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3cf3ae59-c1ad-45f1-90c9-0ce451c4e7af"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042251200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Brave New World"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 38
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.94"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Aldous Huxley"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 5
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "63766"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3dde729f-e3cb-421f-8381-75f06a605f02"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2044324800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Old Wives' Tale"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 91
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.79"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Arnold Bennett"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 87
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "169500"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3e9847e0-6de4-4d75-bd7a-22ba28c39ffa"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2043720000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Of Human Bondage"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 97
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "4.09"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "W. Somerset Maugham"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 66
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "259865"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3efdef6b-62d0-47a8-8c81-f5ea08cbe916"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2039745600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Catch-22"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 87
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.97"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Joseph Heller"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 7
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "174269"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3fa49405-a839-4af4-9988-2c4153983aa0"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042510400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Maltese Falcon"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 20
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.94"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Dashiell Hammett"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 56
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "66373"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "409379bd-13e4-4423-9ae7-5b13f523c107"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042078400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Postman Always Rings Twice"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.81"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "James M. Cain"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 98
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "34800"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "410977d9-b913-4dc1-af90-d2498f58164a"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2044843200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Wings of the Dove"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 95
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.8"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Henry James"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 26
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "191898"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "43e6b01d-2644-48ec-91f4-67e5886c54ac"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042596800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Point Counter Point"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 71
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.83"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Aldous Huxley"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 44
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "129600"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "459707f9-b034-40c2-8c30-e95450019bf6"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(1718860384425+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "ca"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 10
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "casdc"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "zcas"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 15
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "21654546"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4635eb8d-02f9-4718-a947-a85b44d199a3"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2039659200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "A Clockwork Orange"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 7
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.96"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Anthony Burgess"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 65
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "57600"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "46b3d268-18bb-4350-811e-a14a1040b6de"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040782400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "1984"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 36
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "4.1"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "George Orwell"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 13
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "88942"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "46da58b4-d387-4124-8ed3-f839b49a909c"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040350400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Lord of the Flies"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 32
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.61"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "William Golding"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 41
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "59900"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4e229e38-fe83-491d-9f8e-b1748c384eab"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2041646400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Grapes of Wrath"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 39
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "4.08"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "John Steinbeck"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 10
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "169481"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "52f49f0d-1313-42c0-a0b6-a39be685be04"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042251200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Light in August"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 41
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.92"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "William Faulkner"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 54
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "151118"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5311044b-23fd-4546-a855-6e7b6888c91e"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2043460800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Magnificent Ambersons"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 69
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.73"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Booth Tarkington"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 100
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "98954"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "538fc69a-0ecb-4e74-8ea0-29eaba2868d9"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042078400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Tender is the Night"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 42
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.83"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "F. Scott Fitzgerald"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 28
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "104375"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "54129bb7-20d9-4c14-928a-4281f30cab7c"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2045102400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Heart of Darkness"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 64
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.39"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Joseph Conrad"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 67
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "53285"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "568a8eb2-d4a3-413f-bb3b-4f85f781a407"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040436800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Adventures of Augie March"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 72
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.84"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Saul Bellow"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 81
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "247696"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "56dcc51e-7fb7-4ba6-a185-dbe5da3f9bf2"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2043288000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Main Street"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 98
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.73"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Sinclair Lewis"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 68
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "159901"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6547820a-4372-4a7b-a24d-e47110c84959"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2044756800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Call of the Wild"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 61
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.78"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Jack London"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 88
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "96118"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "67670e46-2a1b-4a14-8fb8-9e35af9845a9"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042078400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Tropic of Cancer"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 29
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.71"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Henry Miller"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 50
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "95400"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6f77441d-420e-4fb4-abee-9d2946e0a8aa"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2045016000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Sister Carrie"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 90
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.69"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Theodore Dreiser"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 33
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "156272"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "72fa733e-d272-4af8-a9f4-4588c8250cdf"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2038190400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "A Bend in the River"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 47
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.77"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "V.S. Naipaul"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 83
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "107953"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7816205e-141a-491b-b22d-a49c74ba2273"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2041128000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Loving"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 8
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.55"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Henry Green"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 89
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "67200"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7a9f576c-db89-4d34-80b3-8c2495c64ace"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2041128000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Animal Farm"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 9
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.81"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "George Orwell"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 31
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "29060"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7de14d0f-5957-45c7-be08-74da90baa1fb"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040955200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Under the Volcano"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 83
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.8"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Malcolm Lowry"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 11
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "119100"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7fd1cbf4-a5f9-4bef-a0bd-a581529fec4a"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2044584000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The House of Mirth"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 79
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.93"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Edith Wharton"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 69
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "130089"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8008e9e5-fe4f-4361-90bf-08eb07c94904"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042078400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "A Handful of Dust"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 21
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.91"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Evelyn Waugh"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 34
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "92400"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8d1c2c69-7c63-438b-b4d2-e6f38f7295c7"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2043288000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Age of Innocence"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 74
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.92"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Edith Wharton"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 58
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "101164"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8d568da8-4ca1-4bb0-bb71-86fa7b3b12f8"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040091200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Wapshot Chronicle"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 77
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.76"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "John Cheever"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 63
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "105600"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8e83dd28-3ba8-4db2-9eef-035a890a0827"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2041560000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Darkness at Noon"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 24
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "4.04"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Arthur Koestler"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 8
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "64800"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "92f811bc-597d-4462-a5eb-989e18a23f1d"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2044756800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Way of All Flesh"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 62
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.6"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Samuel Butler"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "96000"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "950affce-bd30-4e2e-9b3c-4c2579254096"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040868800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Naked and the Dead"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 70
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.92"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Norman Mailer"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 51
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "216300"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "954297df-25b7-43bc-bf86-3508874d5b9f"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2043892800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Sons and Lovers"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 96
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.58"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "D.H. Lawrence"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 9
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "196200"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "958cb807-7aab-49e9-88d8-11240ae360c9"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2039745600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "A House for Mr. Biswas"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 82
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.8"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "V.S. Naipaul"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 72
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "198901"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "96adad77-e3e7-4588-8076-069fdb414680"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2043720000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Good Soldier"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 63
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.73"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Ford Madox Ford"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "110400"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9857872a-95e7-4482-80ad-538662761ef7"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042683200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Death Comes for the Archbishop"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 58
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.84"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Willa Cather"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 61
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "66721"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "98bd675a-9426-41f2-8cf2-582170fc16b7"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2041560000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Native Son"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 59
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.92"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Richard Wright"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 20
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "147797"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9cb89691-56fa-431a-8b57-b43206614985"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2044756800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Ambassadors"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 81
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.65"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Henry James"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 27
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "158400"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9d1e6423-4c68-429d-987c-7b5497472c8a"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2043115200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Ulysses"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 92
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.72"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "James Joyce"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "265391"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a0554c5c-b926-4f1d-8de1-78bd3ac1b7ef"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2044324800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "A Room With a View"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 52
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.91"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "E.M. Forster"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 79
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "72000"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a08af247-764d-4de4-bd55-2e948c32830f"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2041128000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Brideshead Revisited"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 33
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.98"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Evelyn Waugh"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 80
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "105300"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a515dce3-80db-4c8b-82cc-c19f4d5ee597"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2038017600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Midnight's Children"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 88
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.99"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Salman Rushdie"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 90
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "208773"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a95c2a26-b459-40c1-a60a-5c1e024002b8"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040091200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "On the Road"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 34
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.66"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Jack Kerouac"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 55
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "92100"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b110472e-1938-4150-b2d2-1f93e016fda5"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2039918400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Henderson the Rain King"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 30
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.79"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Saul Bellow"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 21
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "127062"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b2c068ca-073e-433b-addc-5295dc974913"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2043288000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Women In Love"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 85
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.65"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "D.H. Lawrence"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 49
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "120000"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b58ae076-8b02-438e-8d79-050880e5619e"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2039745600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Prime of Miss Jean Brodie"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 12
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.76"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Muriel Spark"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 76
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "45000"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b6e4ba6a-3be0-4e5e-85cc-21612b706137"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2041560000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Heart is a Lonely Hunter"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 27
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.95"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Carson McCullers"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 17
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "119450"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "bc8f2f8a-db3f-495e-8289-7732f07c83ab"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042078400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "I, Claudius"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 56
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "4.27"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Robert Graves"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 14
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "140400"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "bd543846-2e48-461d-9c15-120880dbc069"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042769600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Sun Also Rises"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 18
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.82"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Ernest Hemingway"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 45
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "67707"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c1337f35-a4cc-4d38-98f6-56f63b6ac0d3"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040609600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "From Here to Eternity"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 67
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "4.07"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "James Jones"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 62
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "244800"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c235c49f-2ef5-4f73-bc69-7a39387313cf"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2039745600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Moviegoer"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 26
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.71"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Walker Percy"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 60
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "72600"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c4317483-efef-4d13-84f7-2ece26f31df4"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2039054400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Slaughterhouse-Five"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 14
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "4.02"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Kurt Vonnegut"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 18
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "49459"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c52ba4e5-5073-43cc-8cbf-042cbb3fe087"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2039400000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Magus"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 45
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "4.04"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "John Fowles"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 93
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "196800"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c6646a90-95f7-420f-9bce-12f9d13e7913"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2039054400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Portnoy's Complaint"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 35
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.68"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Philip Roth"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 52
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "82200"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c755eabe-19fa-4b18-b3e1-349ca5fc1964"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042683200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Bridge of San Luis Rey"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 6
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.78"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Thornton Wilder"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 37
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "31879"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ca3919b3-eb3b-42e3-bc78-f436d68c08fc"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042510400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "A High Wind in Jamaica"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 40
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.78"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Richard Hughes"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 71
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "83700"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ccf7cf7d-e929-4433-a48a-cd041fce742e"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040350400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Under the Net"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 16
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.75"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Iris Murdoch"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 95
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "75600"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "cdafc0be-99f4-491f-b0f4-357b396bd296"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040868800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Heart of the Matter"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 13
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.98"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Graham Greene"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 40
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "81600"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ce45e7d6-d23d-42f6-be2c-f098bdbb8c9f"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2044152000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Howards End"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 43
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.94"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "E.M. Forster"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 38
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "76800"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d1c4fe95-094d-4c21-9500-f5379bf20d79"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042942400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "A Passage to India"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 48
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.63"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "E.M. Forster"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 25
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "99771"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d22a9bab-f687-4ed8-955e-065f01fd5625"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(1718860418313+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "any"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 10
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "meow"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "someone"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 15
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "1235612"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d51ccc85-f398-40db-9383-8e74a5859f5d"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2039313600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Wide Sargasso Sea"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 3
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.53"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Jean Rhys"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 94
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "49665"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d5d78314-b204-4da6-a0d2-e0e74109bdd8"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2037844800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Ironweed"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 15
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.85"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "William Kennedy"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 92
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "67606"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d5f5291e-7a59-4fe9-949e-e9b3328a5a2c"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2045016000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Lord Jim"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 60
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.59"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Joseph Conrad"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 85
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "127949"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "de9e378d-4632-4025-baad-9ddcc1c81823"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2038190400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Sophie's Choice"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 68
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "4.18"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "William Styron"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 96
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "168600"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e28af2cf-e605-4319-ae2f-f47e10cc43b0"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040264000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Ginger Man"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 17
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.68"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "J.P. Donleavy"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 99
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "105600"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e6b4ddbe-8478-419b-8272-6e0fc9727185"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2044929600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Kim"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 76
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.71"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Rudyard Kipling"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 78
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "103576"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e7e48452-2c2a-4cd8-afb5-12de2da2e7c6"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042856000000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "An American Tragedy"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 93
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.91"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Theodore Dreiser"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 16
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "353014"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e92aa5d4-826e-4c01-a761-81ece0718706"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2042510400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Sound and the Fury"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 53
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.65"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "William Faulkner"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 6
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "96931"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e9409e10-8b95-4544-a30e-30ab310056ba"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2041646400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Day of the Locust"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 22
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.8"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Nathanael West"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 73
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "62400"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "eaf945e1-91a8-4481-8e45-bde3214ebe71"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2044065600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Zuleika Dobson"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 50
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.58"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Max Beerbohm"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 59
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "75600"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f3a4ba70-6d22-4366-a447-8a7e104ad97b"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040436800000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Go Tell It on the Mountain"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 25
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.96"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "James Baldwin"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 39
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "80384"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f649e85d-1dd4-41f0-89e0-3a63afb25a07"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2038881600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Angle of Repose"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 54
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "4.27"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Wallace Stegner"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 82
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "205090"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f652d307-8373-4b6e-8815-59156a71e739"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2040609600000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "The Catcher in the Rye"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 2
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.77"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "J.D. Salinger"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 64
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "73404"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f8869e49-4f49-4e3c-b04b-fc9aedcaa5d5"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2044670400000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Nostromo"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 65
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "3.79"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Joseph Conrad"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 47
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "100800"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ff9c0fd9-5bce-4bde-80f5-dc6a0dd30b0b"
+        },
+        {
+          "SchemaColumnUId": "3c28c9fd-7579-cdce-0969-a8215bd2a89d",
+          "Value": "\/Date(-2039659200000+0500)\/"
+        },
+        {
+          "SchemaColumnUId": "92910877-01b5-8b03-b0ba-0935cde029ad",
+          "Value": "Pale FIre"
+        },
+        {
+          "SchemaColumnUId": "9562b64e-7f6d-c2ab-c811-9638b20d16ca",
+          "Value": 46
+        },
+        {
+          "SchemaColumnUId": "a3dc8343-6fb6-89e3-2c37-1b01a2220fcb",
+          "Value": "4.19"
+        },
+        {
+          "SchemaColumnUId": "a9a35a1c-2e82-f659-2df7-5da9d2444b67",
+          "Value": "Vladimir Nabokov"
+        },
+        {
+          "SchemaColumnUId": "c1c14c22-625d-9ab4-746a-4e042ca4177a",
+          "Value": 53
+        },
+        {
+          "SchemaColumnUId": "e1cf5bde-c430-ddd1-1e7e-eef4926a678a",
+          "Value": "74400"
+        }
+      ]
+    }
+  ]
+}

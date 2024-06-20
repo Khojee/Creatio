@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Books" />
+			<Item Name="Columns.UsrAuthor.Caption" Value="Author" />
+			<Item Name="Columns.UsrAvailableCopies.Caption" Value="Available Copies" />
+			<Item Name="Columns.UsrBookTitle.Caption" Value="Book Title" />
+			<Item Name="Columns.UsrCreatedAt.Caption" Value="Created At" />
+			<Item Name="Columns.UsrGenre.Caption" Value="Genre" />
+			<Item Name="Columns.UsrIsbn.Caption" Value="ISBN" />
+			<Item Name="Columns.UsrTotalCopies.Caption" Value="Total Copies" />
+		</Items>
+	</Group>
+</Resources>

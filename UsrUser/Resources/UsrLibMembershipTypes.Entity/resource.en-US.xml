@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="MemberShip Types" />
+			<Item Name="Columns.UsrBorrowingLimit.Caption" Value="Borrowing Limit" />
+			<Item Name="Columns.UsrBorrowingPeriod.Caption" Value="Borrowing Period (in days)" />
+		</Items>
+	</Group>
+</Resources>
